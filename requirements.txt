@@ -1,0 +1,10 @@
+# Google GenAI SDK (The new official SDK)
+google-genai>=0.1.1
+
+# Image processing
+Pillow>=10.0.0
+
+# (Optional) Voice input from microphone
+# Uncomment these if you want to use `/voice mic`
+# pyaudio>=0.2.14
+# SpeechRecognition>=3.10.4
